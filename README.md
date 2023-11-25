@@ -1,2 +1,3 @@
 # SemeionTechCollabTest
-SemeionTechCollabTest
+Semeion tech collab repo (test)
+
