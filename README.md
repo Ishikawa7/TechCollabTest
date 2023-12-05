@@ -1,4 +1,4 @@
-# SemeionTechCollabTest
+# Semeion Tech Collaboration Test
 Salve a tutti! In questo repo sono presenti dei dataset di prova su cui esercitarci/testare nuove idee.
 Al momento sono:
 - Iris dataset, un grande classico del Machine Learning!
